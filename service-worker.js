@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ubiqua-front-react/precache-manifest.0ada3ee12778d7969f79eb6b92866c15.js"
+  "/ubiqua-front-react/precache-manifest.60449171a329e6441f2dfa6b2803f0a7.js"
 );
 
 self.addEventListener('message', (event) => {
